@@ -1,0 +1,10 @@
+{    "firstName":"Omkar",	
+     "lastName":"Ghagare",
+     "age":22,
+    "address":{
+        "Flat No":"AM-66",
+         "city":"Nagothane",
+         "state":"Maharashtra",
+         "postalCode":402125
+    }    
+}

@@ -1,0 +1,17 @@
+<patients>
+    <patient id="1">
+        <name>Omkar</name>
+        <phone>9760097600</phone>
+        <email>omkar@gmail.com</email>
+    </patient>
+    <patient id="2">
+        <name>Sagar</name>
+        <phone>9760097600</phone>
+        <email>sagar@gmail.com</email>
+    </patient>
+    <patient id="3">
+        <name>Deepak</name>
+        <phone>9760097600</phone>
+        <email>deepak@gmail.com</email>
+    </patient>
+</patients>
